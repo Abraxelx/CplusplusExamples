@@ -65,8 +65,7 @@ int main() {
     while (inFile >> x) {
         values.push_back(x);
     }
- //   avarage = sum / count;
-    
+        
     inFile.close();
 
      cout << "\nList  (Values) is : "; 
